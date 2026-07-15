@@ -1,4 +1,4 @@
 # Project-1
-First Git Repository
+First Git Repository.
 <br>
 Author - Ekanth
